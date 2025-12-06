@@ -117,10 +117,3 @@ if __name__ == "__main__":
     
     print("\nPlotting fat content over time by food category...")
     plot_nutrient_by_categories(1004)  # Fat
-
-if __name__ == "__main__":
-    print("Plotting protein content over time by food category...")
-    plot_nutrient_by_categories(1003)  # Protein
-    
-    print("\nPlotting fat content over time by food category...")
-    plot_nutrient_by_categories(1004)  # Fat
