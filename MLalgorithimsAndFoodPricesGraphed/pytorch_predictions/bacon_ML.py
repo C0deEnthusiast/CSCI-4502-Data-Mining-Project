@@ -2,7 +2,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 
-df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/Ivan_Folder/bacon_avg.csv")
+df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/MLalgorithimsAndFoodPricesGraphed/bacon_avg.csv")
 months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 data = df[months].astype(float)
 class MonthModel(nn.Module):

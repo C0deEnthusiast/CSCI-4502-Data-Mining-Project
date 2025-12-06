@@ -49,6 +49,61 @@ All authors contributed equally to this research.
 - Average fat content in foods over time
 - Average price per 1000 calories by macronutrient
 
+![Normalized Average Food Prices Over Time](images/data_mining_1.png)
+![Average Protein Content in Food Over Time](images/data_mining_2.png)
+![Average Total Fat Content for Food Over Time](images/data_mining_3.png)
+![Average Price Per 1000 Calories of Macronutrients Over Time](images/data_mining_4.png)
+![](images/data_mining_4.png)
+![](images/data_mining_5.png)
+![](images/data_mining_6.png)
+![](images/data_mining_7.png)
+![](images/data_mining_8.png)
+![](images/data_mining_9.png)
+![](images/data_mining_10.png)
+![](images/data_mining_11.png)
+![](images/data_mining_12.png)
+![](images/data_mining_14.png)
+![](images/data_mining_15.png)
+![](images/data_mining_16.png)
+![](images/data_mining_17.png)
+![](images/data_mining_18.png)
+![](images/data_mining_19.png)
+![](images/data_mining_20.png)
+![](images/data_mining_21.png)
+
+## Code to Run Files and Outputs Continued
+1. python3 bacon_ML.py
+
+Predictions for missing 2025 months:
+Jan: 7.1857
+Feb: 6.9516
+Mar: 7.1523
+Apr: 7.1692
+May: 7.1373
+Jun: 7.0947
+Jul: 7.2484
+Aug: 7.1789
+Sep: 7.4108
+Oct: 7.8480
+Nov: 6.5191
+Dec: 6.7332
+
+2. python3 beef_ML.py
+
+Predictions for missing 2025 months:
+Jan: 5.5320
+Feb: 5.5898
+Mar: 5.6875
+Apr: 5.7886
+May: 5.7827
+Jun: 6.0288
+Jul: 6.0295
+Aug: 6.2202
+Sep: 6.2806
+Oct: 6.0034
+Nov: 6.0187
+Dec: 5.9789
+
 ## References
 1. [USDA Food Price Outlook](https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings)
 2. [Fox News: Food Prices Surge](https://www.fox13news.com/news/food-prices-expected-surge-experts-say-somethings-got-change)

@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 
 
-df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/Ivan_Folder/ground_beef_average_price_per_pound.csv")
+df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/MLalgorithimsAndFoodPricesGraphed/ground_beef_average_price_per_pound.csv")
 
 months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 data = df[months].astype(float)

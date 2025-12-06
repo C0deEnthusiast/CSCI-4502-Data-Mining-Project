@@ -2,7 +2,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 
-df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/Ivan_Folder/sirloin_steak_avg.csv")
+df = pd.read_csv("/home/ivgo5040/CSCI-4502-Data-Mining-Project/MLalgorithimsAndFoodPricesGraphed/sirloin_steak_avg.csv")
 
 months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 
