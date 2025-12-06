@@ -61,4 +61,4 @@ All authors contributed equally to this research.
 9. [USDA FoodData Central](https://fdc.nal.usda.gov/download-datasets)
 
 ## Honor Code
-All team members adhered to the University of Colorado Boulder Honor Code. Every aspect of the project—data collection, cleaning, analysis, coding, and writing—was completed collaboratively, with equal contributions from all members.
+All team members adhered to the University of Colorado Boulder Honor Code.
